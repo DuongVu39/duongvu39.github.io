@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I'm a Vietnamese girl studying in Vancouver. I love science and technology because there are always more positive news in these field than in world news or politics and there are a lot of amazing things invented every year [Check last year's invention here](http://time.com/4572079/best-inventions-2016/).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email me what you think about the blog](petal.quartz.79@gmail.com)
