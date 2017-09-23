@@ -1,10 +1,7 @@
-_site
-.DS_Store
-.jekyll
-.jekyll-metadata
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
+archive
 node_modules
-package.json
+.idea
+.sass-cache
+.git
+.DS_Store
+Blog.xcworkspace
