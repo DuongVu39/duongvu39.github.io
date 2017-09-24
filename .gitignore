@@ -1,7 +1,10 @@
-archive
-node_modules
-.idea
-.sass-cache
-.git
+_site
 .DS_Store
-Blog.xcworkspace
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json

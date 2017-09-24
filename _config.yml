@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-#Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
-logo: favicon.png
-url: kongsong.me
-rss_url: /feed.xml
-
-# Jekyll
-permalink:          /blog/:title/
-markdown:           kramdown
-highlighter:        rouge
-=======
 #
 # This file contains configuration flags to customize your site
 #
@@ -22,7 +9,7 @@ name: La vie en rose
 description: My skin care's journal
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://images4.fanpop.com/image/photos/23300000/Pikachu-pikachu-23385611-400-500.jpg
+avatar: https://http://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/14276583_766755253427612_1800231692_n.jpg?ig_cache_key=MTMzOTQxNTQyODY2OTQxODEwMA%3D%3D.2
 
 #
 # Flags below are optional
@@ -72,65 +59,28 @@ permalink: /:title/
 version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
->>>>>>> f0e2c25e284fc8a849d9a05b98a28c879ecef45a
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
 sass:
-  sass_dir:         assets/_sass
-  style:            compressed
+  style: :expanded # You might prefer to minify using :compressed
 
-# Comment
-comment:
-  disqus: kongsong    
-  # duoshuo: kongsong
-  # youyan: 2122392
-  laibili: MTAyMC8yODgzNC81NDA0
-
-# Website analytics
-google_analytics: UA-82494501-1
-baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
-
-# Author information:
-author:
-  #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
- 
-# Social Links
-email:               hi@kongsong.me
-#google.plus:        username
-#twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-#behance:           username
-
-# Gems
+# Use the following plug-ins
 gems:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile,.sass-cache,.DS_Store,.idea]
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
