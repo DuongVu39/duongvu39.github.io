@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title style="color: darkred">{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <link rel="stylesheet" href="../libs/w3.css">
+
+    <title class = "w3-red">{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
 
@@ -27,8 +29,8 @@
           </div>
 
           <nav>
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
+          <nav class="w3-bar">
+            <a href="{{ site.baseurl }}/"><img src="../images/lip.png" alt="logo" width="22" height="22" >Blog</a>
             <a href="{{ site.baseurl }}/about"><img src="../images/abt_me.png" alt="logo" width="22" height="22" >About</a>
           </nav>
         </header>
