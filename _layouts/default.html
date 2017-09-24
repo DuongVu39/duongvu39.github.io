@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title style="color: darkred">{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
 
@@ -27,8 +27,9 @@
           </div>
 
           <nav>
+          <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/about"><img src="../images/abt_me.png" alt="logo" width="22" height="22" >About</a>
           </nav>
         </header>
       </div>
