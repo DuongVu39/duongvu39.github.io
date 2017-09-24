@@ -2,147 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="882bc150-5bfd-4d2a-b3af-f760d7bbad0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/duongvu39.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/._bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/TweenMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/main_menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/material_kit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/profile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/slide_menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/w3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/w3color.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/front-end-interview.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/banner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/comments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/post-list-pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/post-pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/share.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/post-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/byr-bbs-memory/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/fe-optimizing/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/ice-bear-jekyll-theme/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/javascript-reading-notes/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/mercator-and-lonlat/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/meta-viewport/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/mobile-slide-plugin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/passive-event-listeners/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/photo-mask/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/pocket-weather/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/react-selector/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/review-and-plan/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/sql-notes/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/web-call-app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Blog/web-debug-in-mobile/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/liberation-mono-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/liberation-mono-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/liberation-mono-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/liberation-mono-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/cartoon-avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/pocket-weather.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/wave.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jPages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery-1.8.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/snap.svg-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/svg-animation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_base.links.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_base.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_base.text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_components.img.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_components.nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_components.socials.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_components.tag.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_settings.color.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_settings.device.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_settings.fonts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_syntax-highlighting.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/_tools.mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_extras.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/font-awesome/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_sass/vendor/fonts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/liberation-mono-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/liberation-mono-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/liberation-mono-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/liberation-mono-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/weblysleekuil.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/weblysleekuil.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/weblysleekuil.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/weblysleekuil.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/weblysleekuil.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/cartoon-avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/pocket-weather.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/wave.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jPages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery-1.8.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/snap.svg-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/svg-animation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meta/posts.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meta/tags.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/analytics.html" afterPath="$PROJECT_DIR$/_includes/analytics.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-3-3-The-skincare.md" afterPath="$PROJECT_DIR$/_posts/2014-3-3-The-skincare.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.scss" afterPath="$PROJECT_DIR$/style.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -157,9 +17,12 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="31">
+              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -427,7 +290,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -460,7 +326,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -510,7 +379,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -628,9 +500,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="31">
+          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
